@@ -104,6 +104,7 @@ Finally, come [chat with the maintainers](https://gitter.im/mochajs/contributors
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmochajs%2Fmocha.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmochajs%2Fmocha?ref=badge_large)
 
+
 ## Foundation
 
 Mocha belongs to [Open JS Foundation](https://openjsf.org).
@@ -125,5 +126,5 @@ Here are the services we consume to make mocha.
 <a href="https://matomo.org/" target="_blank"><img alt="Matomo" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/matomo-logo.png" width="155px" ><img></a>
 <a href="https://travis-ci.com/" target="_blank"><img alt="Travis CI" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/travisCi-logo.png" width="190px" ><img></a>
 <a href="https://www.appveyor.com/" target="_blank"><img alt="Appveyor" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/appVeyor-logo.png" width="280" ><img></a>
-<a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/netlify-logo.png" width="200px" ><img></a>
+<a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://opencollective.com/mochajs/sponsor/8/avatar.jpg"><img></a>
 <a href="https://coveralls.io" target="_blank"><img alt="Coveralls" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/coveralls-logo.png" width="160px" ><img></a>
