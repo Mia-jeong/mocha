@@ -56,7 +56,7 @@
 
 ## Sponsors
 
-Does your company use Mocha?  Ask your manager or marketing team if your company would be interested in supporting our project.  Support will allow the maintainers to dedicate more time for maintenance and new features for everyone.  Also, your company's logo will show [on GitHub](https://github.com/mochajs/mocha#readme) and on [our site](https://mochajs.org) - who doesn't want a little extra exposure?  [Here's the info](https://opencollective.com/mochajs#sponsor).
+Does your company use Mocha? Ask your manager or marketing team if your company would be interested in supporting our project. Support will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show [on GitHub](https://github.com/mochajs/mocha#readme) and on [our site](https://mochajs.org) - who doesn't want a little extra exposure? [Here's the info](https://opencollective.com/mochajs#sponsor).
 
 [![MochaJS Backer](https://opencollective.com/mochajs/sponsor/0/avatar)](https://opencollective.com/mochajs/sponsor/0/website)
 [![MochaJS Backer](https://opencollective.com/mochajs/sponsor/1/avatar)](https://opencollective.com/mochajs/sponsor/1/website)
@@ -83,12 +83,12 @@ Does your company use Mocha?  Ask your manager or marketing team if your company
 
 You might want to know that:
 
-- Mocha is the *most-depended-upon* module on npm (source: [libraries.io](https://libraries.io/search?order=desc&platforms=NPM&sort=dependents_count)), and
-- Mocha is an *independent* open-source project, maintained exclusively by volunteers.
+- Mocha is the _most-depended-upon_ module on npm (source: [libraries.io](https://libraries.io/search?order=desc&platforms=NPM&sort=dependents_count)), and
+- Mocha is an _independent_ open-source project, maintained exclusively by volunteers.
 
 You might want to help:
 
-- New to contributing to Mocha?  Check out this list of [good first issues](https://github.com/mochajs/mocha/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-issue)
+- New to contributing to Mocha? Check out this list of [good first issues](https://github.com/mochajs/mocha/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-issue)
 - Mocha could use a hand with [these issues](https://github.com/mochajs/mocha/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 - The [maintainer's handbook](https://github.com/mochajs/mocha/blob/master/MAINTAINERS.md) explains how things get done
 
@@ -114,16 +114,16 @@ Mocha belongs to [Open JS Foundation](https://openjsf.org).
 
 If you want to support your service to the project, contact [maintainers](https://gitter.im/mochajs/contributors) on Gitter.
 <br><br>
-<a href="https://www.jetbrains.com/" target="_blank"><img alt="Jetbrains" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/jetbrains-logo.png" height="140px" ><img></a>
-<a href="https://wallabyjs.com/" target="_blank"><img alt="Wallaby Js" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/wallabyJs-logo.png" height="120px" ><img></a>
-<a href="https://saucelabs.com/" target="_blank"><img alt="Soucelabs Js" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/saucelabs-logo.png" width="300px" ><img></a>
+<a href="https://www.jetbrains.com/" target="_blank"><img alt="Jetbrains" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/jetbrains-logo.png" height="140px" ><img></a>
+<a href="https://wallabyjs.com/" target="_blank"><img alt="Wallaby Js" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/wallabyJs-logo.png" height="120px" ><img></a>
+<a href="https://saucelabs.com/" target="_blank"><img alt="Soucelabs Js" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/saucelabs-logo.png" width="300px" ><img></a>
 
 ## Usage
 
 Here are the services we consume to make mocha.
 <br><br>
-<a href="https://matomo.org/" target="_blank"><img alt="Matomo" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/matomo-logo.png" width="155px" ><img></a>
-<a href="https://travis-ci.com/" target="_blank"><img alt="Travis CI" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/travisCi-logo.png" width="190px" ><img></a>
-<a href="https://www.appveyor.com/" target="_blank"><img alt="Appveyor" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/appVeyor-logo.png" width="280" ><img></a>
-<a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/netlify-logo.png" width="200px" ><img></a>
-<a href="https://coveralls.io" target="_blank"><img alt="Coveralls" src="https://raw.githubusercontent.com/mochajs/mocha/master/docs/images/coveralls-logo.png" width="160px" ><img></a>
+<a href="https://matomo.org/" target="_blank"><img alt="Matomo" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/matomo-logo.png" width="155px" ><img></a>
+<a href="https://travis-ci.com/" target="_blank"><img alt="Travis CI" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/travisCi-logo.png" width="190px" ><img></a>
+<a href="https://www.appveyor.com/" target="_blank"><img alt="Appveyor" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/appVeyor-logo.png" width="280" ><img></a>
+<a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/netlify-logo.png" width="200px" ><img></a>
+<a href="https://coveralls.io" target="_blank"><img alt="Coveralls" src="https://raw.githubusercontent.com/Mia-jeong/mocha/fix-issue-3627-2/docs/images/coveralls-logo.png" width="160px" ><img></a>
